@@ -21,6 +21,7 @@
 <br />
 
 Hi, I'm [Suman Dandapat](https://www.instagram.com/_.sumandandapat._/), a Final Year Engineering Student major in Computer Science and an Aspiring Data Scientist from India.
+Currently working as a Data Science Intern @ Innomatics Research Lab.
  
 <img align="right" alt="GIF" src="https://github.com/Suman-programmer/Suman-programmer/blob/main/code.gif" width="400" height="320" />
 
