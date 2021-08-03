@@ -16,7 +16,6 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Suman-programmer.Suman-programmer)
 
 <br />
 
