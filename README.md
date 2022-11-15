@@ -29,7 +29,7 @@ Currently working as a Data Science Intern @ Innomatics Research Lab.
 - 🌱 Schooling: [DAV Public School, Jamshedpur](http://davnitjsr.org/);
 - 🏢 College: [Don Bosco Institute of Technology](https://donboscobangalore.education/);
 - 📫 How to reach me: sumandandapat739@gmail.com ;
-- 📝 [Resume](https://drive.google.com/file/d/1Lx4qTTuMMHOckDdlvGGVqe4gP8YiTvxL/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/16fMv1_YWr3KIQvkUMu9bHuYE7sqJ5MYa/view?usp=sharing)
 - 😄 Pronouns: She/Her
 
 **Languages and Tools:** <br>
