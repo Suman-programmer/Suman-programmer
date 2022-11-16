@@ -20,7 +20,7 @@
 <br />
 
 Hi, I'm [Suman Dandapat](https://www.instagram.com/_.sumandandapat._/), work as a Data Engineer at Accenture AI from India.
-Currently working as a Data Science Intern @ Innomatics Research Lab.
+Also Pursuing Diploma in Data Science from IIIT Bangalore.
  
 <img align="right" alt="GIF" src="https://github.com/Suman-programmer/Suman-programmer/blob/main/code.gif" width="400" height="320" />
 
