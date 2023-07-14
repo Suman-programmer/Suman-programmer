@@ -19,17 +19,17 @@
 
 <br />
 
-Hi, I'm [Suman Dandapat](https://www.instagram.com/_.sumandandapat._/), work as a Data Engineer at Accenture AI from India.
-Also Pursuing Diploma in Data Science from IIIT Bangalore.
+Hi, I'm [Suman Dandapat](https://www.instagram.com/_.sumandandapat._/), work as a Data Engineer at Cloudside Technologies from India.
+
  
 <img align="right" alt="GIF" src="https://github.com/Suman-programmer/Suman-programmer/blob/main/code.gif" width="400" height="320" />
 
 **Few things about me:** 
-- 💬 Ask me about Python, Data Science, Machine Learning;
+- 💬 Ask me about Data Engineering, Data Science, Machine Learning;
 - 🌱 Schooling: [DAV Public School, Jamshedpur](http://davnitjsr.org/);
 - 🏢 College: [Don Bosco Institute of Technology](https://donboscobangalore.education/);
 - 📫 How to reach me: sumandandapat739@gmail.com ;
-- 📝 [Resume](https://drive.google.com/file/d/16fMv1_YWr3KIQvkUMu9bHuYE7sqJ5MYa/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1qCtBQmktVvq8RDrHrMB3IcPhSAIjEPrI/view?usp=sharing)
 - 😄 Pronouns: She/Her
 
 **Languages and Tools:** <br>
