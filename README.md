@@ -1,25 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discordapp.com/users/770702288423092274">
-  <img align="left" alt="Suman's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/sumandandapat73">
-  <img align="left" alt="Suman Dandapat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dandapatsuman/">
-  <img align="left" alt="Suman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/31ssfokl47g5wffji2halz3s3aqe">
-  <img align="left" alt="Suman's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.facebook.com/sumi.dandapat/">
-  <img align="left" alt="Suman's Facebook" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/facebook.svg" />
-</a>
-
-
 
 <br />
 
-Hi, I'm [Suman Dandapat](https://www.instagram.com/_.sumandandapat._/), work as a Data Engineer at Cloudside Technologies from India.
+Hi, I'm [Suman Dandapat](https://www.instagram.com/_.sumandandapat._/), work as a Data Engineer at TekSystems India.
 
  
 <img align="right" alt="GIF" src="https://github.com/Suman-programmer/Suman-programmer/blob/main/code.gif" width="400" height="320" />
